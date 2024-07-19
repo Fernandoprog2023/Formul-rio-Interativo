@@ -1,0 +1,55 @@
+body {
+    background-color: #303030;
+}
+header {
+    display: grid;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: ghostwhite;    
+}
+#top {
+    display: grid;
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    size: 50%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#segundo {
+    display: grid;
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#questionario {
+    display: grid;
+    font-family: Arial, sans-serif;
+    background-color: lightcyan;
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#resp {
+    font-family: Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 0cap;
+    height: 20pt;
+}
+#btnEnviar {
+    background-color: lightblue;
+    color: ghostwhite;
+    font-family: Arial, sans-serif;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 0cap;
+    height: 20pt;
+}
